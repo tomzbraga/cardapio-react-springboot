@@ -18,5 +18,6 @@ public class Food {
   private String image;
 
   private Integer price;
+  
 
 }
